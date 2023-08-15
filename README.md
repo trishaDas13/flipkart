@@ -1,6 +1,8 @@
 # flipkart
 <h1>Hosted LInk: </h1>
 https://trishadas13.github.io/flipkart/
+
+
 ![1](https://github.com/trishaDas13/flipkart/assets/126088849/27a91d4b-61b2-4a1c-a83a-833c9b8e859a)
 ![1a](https://github.com/trishaDas13/flipkart/assets/126088849/3c8863cb-513e-42db-8f92-8b708a0158e4)
 
