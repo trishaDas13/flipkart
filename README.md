@@ -123,3 +123,7 @@ The .image class styles an image element:
 Occupies 95% width of its containing element.
 Occupies 60% height of its containing element.
 These styles contribute to the visual presentation and layout of the webpage elements, ensuring consistent font sizes, text colors, and spacing. The .white-nav class specifically defines the appearance of a navigation bar with a white background color and centered content. The .image class sets dimensions for image elements, enhancing their display within their containers.
+
+<h1>Final View:</h1>
+![3](https://github.com/trishaDas13/flipkart/assets/126088849/2e5d4e4d-8a0c-45c7-93b4-fde92d48e01b)
+
